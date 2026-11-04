@@ -1,0 +1,33 @@
+# Python environments
+.mirah-bi/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment secrets
+.env
+
+# Logs
+logs/*.log
+
+# Local datasets
+data/bronze/*
+data/silver/*
+data/gold/*
+
+# Preserve data structure
+!data/bronze/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

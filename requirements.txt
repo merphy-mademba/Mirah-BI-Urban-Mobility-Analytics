@@ -1,0 +1,19 @@
+# DATA GENERATION
+Faker
+numpy
+
+# DATA ENGINEERING
+pandas
+pyarrow
+
+# DATABASE
+SQLAlchemy
+pyodbc
+
+# CONFIGURATION
+python-dotenv
+PyYAML
+
+# TESTS
+pytest
+pytest-cov
