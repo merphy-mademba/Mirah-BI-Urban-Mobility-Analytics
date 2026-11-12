@@ -1,0 +1,5 @@
+﻿id;ingested_at;societe_id;nom_societe;ville_operation;date_lancement;statut;source_systeme;batch_id;source_id
+5;2026-11-10T01:36:36.497305+00:00;1;Yango Sénégal;"[""Dakar"", ""Thiès"", ""Mbour"", ""Diamniadio""]";2021-12-01;Active;synthetic_generator;ab2b8e14-5edd-47ac-a27e-e359d31fe325;efe1a165-3125-4dec-a165-7172f4078bd0
+8;2026-11-10T01:36:36.497305+00:00;4;InDrive Sénégal;"[""Dakar"", ""Thiès"", ""Mbour"", ""Diamniadio""]";2022-08-20;Active;synthetic_generator;ab2b8e14-5edd-47ac-a27e-e359d31fe325;efe1a165-3125-4dec-a165-7172f4078bd0
+6;2026-11-10T01:36:36.497305+00:00;2;Yassir Sénégal;"[""Dakar"", ""Thiès"", ""Mbour"", ""Diamniadio""]";2022-03-15;Active;synthetic_generator;ab2b8e14-5edd-47ac-a27e-e359d31fe325;efe1a165-3125-4dec-a165-7172f4078bd0
+7;2026-11-10T01:36:36.497305+00:00;3;Heetch Sénégal;"[""Dakar"", ""Thiès"", ""Mbour"", ""Diamniadio""]";2023-01-10;Active;synthetic_generator;ab2b8e14-5edd-47ac-a27e-e359d31fe325;efe1a165-3125-4dec-a165-7172f4078bd0
